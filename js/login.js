@@ -9,7 +9,7 @@ document.getElementById('btn-submit').addEventListener('click', function(){
     const passwordField = document.getElementById('user-password');
     const password = passwordField.value;
     // step-4: verify password 
-    if(email === 'mdfayez131@gmail.com' && password === 'nr0563269658'){
+    if(email === 'amarpocket@wallet.com' && password === 'amarpocket'){
         window.location.href = 'bank.html';
         }
         else{
